@@ -36,7 +36,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/instant-reader.git
+git clone https://github.com/shyam0118/instant-reader.git
 cd instant-reader
 ```
 
